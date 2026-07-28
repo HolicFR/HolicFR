@@ -7,7 +7,7 @@ I'm currently learning C Programming
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# verson control:-
+# Version Control:-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=HolicFR&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
