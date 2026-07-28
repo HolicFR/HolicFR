@@ -1,5 +1,5 @@
 #  About Me:
-Learning C from scratch and documenting my journey every day on [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@litcodelive)
+Learning C from scratch and documenting my journey every day.
 
 
 ## 🌐 Socials:
